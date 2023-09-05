@@ -1,1 +1,1 @@
-
+Citation: Barger Z, Frye CG, Liu D, Dan Y, Bouchard KE (2019) Robust, automated sleep scoring by a compact neural network with distributional shift correction. PLoS ONE 14(12): e0224642. https://doi.org/10.1371/journal.pone.0224642
